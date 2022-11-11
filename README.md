@@ -1,8 +1,9 @@
 # React Phone catalog
 ## Technologies used in the project
-- HTML5, CSS3, Sass (SCSS), 
+- HTML5, CSS3, Sass (SCSS) 
 - React, 
-- BEM, 
+- TypeScript, JavaScript
+- BEM
 - Fetch, REST API
 ## Preview
 - [Link](https://sanyokmalyshev.github.io/Project-react-phone-catalog/#//)
